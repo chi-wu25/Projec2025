@@ -15,6 +15,8 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .navigation a {
     color: #08090A;
@@ -25,3 +27,11 @@ body {
 .navigation {
     display: flex;
 }
+.nav-button {
+    background-color: transparent;
+    border-color: transparent;
+    display: none;
+}
+
+
+
